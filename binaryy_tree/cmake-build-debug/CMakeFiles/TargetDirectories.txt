@@ -1,0 +1,3 @@
+C:/Users/Artyom/CLionProjects/laba27/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Artyom/CLionProjects/laba27/cmake-build-debug/CMakeFiles/laba27.dir
+C:/Users/Artyom/CLionProjects/laba27/cmake-build-debug/CMakeFiles/rebuild_cache.dir
